@@ -1,0 +1,9 @@
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.deps.json
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.dll
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.pdb
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.csprojAssemblyReference.cache
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.csproj.CoreCompileInputs.cache
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.AssemblyInfoInputs.cache
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.AssemblyInfo.cs
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.dll
+D:\Dokumenter\Visual Studio Code\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.pdb

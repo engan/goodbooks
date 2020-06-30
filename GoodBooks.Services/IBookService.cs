@@ -1,0 +1,13 @@
+using System.Collections.Generic;
+using GoodBooks.Data.Models;
+
+namespace GoodBooks.Services
+{
+    public interface IBookService
+    {
+         public List<Book> GetAllBooks();
+         public Book GetBook(int bookId);
+         public void AddBook(Book book);
+         public void DeleteBeook(int bookId);
+    }
+}
